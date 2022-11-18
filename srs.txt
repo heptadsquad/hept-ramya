@@ -1,0 +1,29 @@
+REQUIREMENTS:-
+Requires a valid prescription 
+online pharmacy should have physical address so drug authority can inspect quality and standards of online pharmacy store.
+E-pharmacies has to registered under central licensing Authority.
+Retail drug license will be issued by state drug control Authority.
+presence of pharmacist is must for receiving  prescription and answering the questions of the consumers.
+pharmacy can't dispense habit forming medicines and schedule X drugs.
+prescription drugs (Schedule H and Schedule H1) can only be sell out against a valid doctor prescription.
+online pharmacies have to comply with e-commerce standards covered under IT act, 2000.
+Hope above information
+
+REQUIREMENTS:-
+1. functional requirements.
+2. stakeholders requirements.
+3. technical requirements.
+4. pharmacy license
+5. drugs supplier 
+6. consultant
+7. GPS
+8. prioritise and update
+
+procedure to open an online pharmacy :
+seller registration at existing at e-pharmacy.
+for own website or app.
+online pharmacy registration and license required:
+retail drug license.
+requirements and documents for setting -UP online pharmacy.
+
+
